@@ -1,0 +1,25 @@
+# Pinned per report Appendix D.2 (Python 3.11). Pillow added explicitly for SynJama rendering.
+torch==2.4.1
+torchvision==0.19.1
+opencv-python-headless==4.10.0.84
+scikit-image==0.24.0
+pdf2image==1.17.0
+albumentations==1.4.18
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+sklearn-crfsuite==0.5.0  # 0.5.2 in report D.2 does not exist on PyPI
+rapidfuzz==3.9.7
+indic-transliteration==2.3.69
+pytesseract==0.3.13
+streamlit==1.38.0
+pyarrow==17.0.0  # newer pyarrow needs NumPy 2; the report pins NumPy 1.26
+typer==0.12.5
+click==8.1.8  # typer 0.12 is incompatible with click >= 8.2
+PyYAML==6.0.2
+matplotlib==3.9.2
+joblib==1.4.2
+tqdm==4.66.5
+pytest==8.3.3
+Pillow==10.4.0
+scipy==1.13.1

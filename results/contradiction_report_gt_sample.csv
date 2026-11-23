@@ -1,0 +1,9 @@
+holding_id,page_id,village_code,khewat_no,register_row_id,link_method,rule,name,kind,severity,score,evidence
+V000-P0001-R09,V000-P0001,V000,9,V000-117,khasra_jaccard,R5,owner_set_differs,cross,high,,"{""side"": ""register"", ""idx"": 0, ""name"": ""रामकिशन नाथ"", ""best_similarity"": 0.455}"
+V000-P0001-R09,V000-P0001,V000,9,V000-117,khasra_jaccard,R5,owner_set_differs,cross,high,,"{""side"": ""scan"", ""idx"": 0, ""name"": ""ओम प्रकाश"", ""best_similarity"": 0.455}"
+V000-P0002-R04,V000-P0002,V000,14,V000-14,khewat,R9,cultivator_differs,cross,medium,,"{""scan"": ""khudkasht"", ""register"": ""ओम प्रकाश s/o हरी पाल"", ""same"": false, ""similarity"": 0.0}"
+V000-P0005-R01,V000-P0005,V000,36,V000-36,khewat,R9,cultivator_differs,cross,medium,,"{""scan"": ""दिनेश दत्त s/o नरेंद्र दत्त"", ""register"": ""मुकेश सिंह s/o राजबीर दास"", ""same"": false, ""similarity"": 0.52}"
+V000-P0005-R06,V000-P0005,V000,41,V000-41,khewat,R6,share_differs,cross,high,,"{""scan_idx"": 1, ""register_idx"": 1, ""scan_name"": ""संजय दत्त"", ""register_name"": ""संजय दत्त"", ""similarity"": 1.0, ""scan_share"": ""1/3"", ""register_share"": ""2/15""}"
+V000-P0005-R06,V000-P0005,V000,41,V000-41,khewat,R6,share_differs,cross,high,,"{""scan_idx"": 2, ""register_idx"": 2, ""scan_name"": ""प्रेमा बाई"", ""register_name"": ""प्रेमा बाई"", ""similarity"": 1.0, ""scan_share"": ""1/3"", ""register_share"": ""8/15""}"
+V000-P0005-R10,V000-P0005,V000,45,V000-45,khewat,R6,share_differs,cross,high,,"{""scan_idx"": 2, ""register_idx"": 2, ""scan_name"": ""अजय नाथ"", ""register_name"": ""अजय नाथ"", ""similarity"": 1.0, ""scan_share"": ""1/4"", ""register_share"": ""2/5""}"
+V000-P0005-R10,V000-P0005,V000,45,V000-45,khewat,R6,share_differs,cross,high,,"{""scan_idx"": 3, ""register_idx"": 3, ""scan_name"": ""राजेश लाल"", ""register_name"": ""राजेश लाल"", ""similarity"": 1.0, ""scan_share"": ""1/4"", ""register_share"": ""1/10""}"

@@ -1,0 +1,99 @@
+{
+  "pages": 20,
+  "acceptance_passed": false,
+  "column_count_accuracy": 0.0,
+  "grid_ok_rate": 0.0,
+  "mean_cell_iou": 0.0,
+  "cells_iou_ge_0.9": 0.0,
+  "row_count_accuracy": 0.0,
+  "line_split_accuracy": 0.0,
+  "mean_skew_err_deg": 0.03163245521971994,
+  "max_skew_err_deg": 0.10348838355956835,
+  "unet_fallback_used": 0,
+  "stress": true,
+  "failures": [
+    {
+      "page_id": "V053-P0001",
+      "reason": "found 1 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0002",
+      "reason": "found 3 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0003",
+      "reason": "found 2 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0004",
+      "reason": "found 0 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0005",
+      "reason": "found 1 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0006",
+      "reason": "found 0 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0007",
+      "reason": "found 5 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0008",
+      "reason": "found 0 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0009",
+      "reason": "found 2 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0010",
+      "reason": "found 1 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0011",
+      "reason": "found 0 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0012",
+      "reason": "found 3 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0013",
+      "reason": "found 1 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0014",
+      "reason": "found 1 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0015",
+      "reason": "found 1 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0016",
+      "reason": "found 0 columns, expected 12"
+    },
+    {
+      "page_id": "V054-P0001",
+      "reason": "found 2 columns, expected 12"
+    },
+    {
+      "page_id": "V054-P0002",
+      "reason": "found 2 columns, expected 12"
+    },
+    {
+      "page_id": "V054-P0003",
+      "reason": "found 0 columns, expected 12"
+    },
+    {
+      "page_id": "V054-P0004",
+      "reason": "found 2 columns, expected 12"
+    }
+  ],
+  "data": "data/synjama/val",
+  "config_hash": "345e37f21e86",
+  "unet": null
+}

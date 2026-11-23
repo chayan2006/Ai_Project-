@@ -1,0 +1,26 @@
+{
+  "generator": "synjama-0.1",
+  "split": "sample",
+  "seed": 0,
+  "config_hash": "230c524450a6",
+  "created": "2026-11-06T04:35:10",
+  "pages": 5,
+  "villages": [
+    "V000"
+  ],
+  "holdings_on_pages": 45,
+  "text_lines": 702,
+  "register_rows": 115,
+  "fonts": [
+    "Kalam-Bold.ttf"
+  ],
+  "labels_on_pages": {
+    "benign:digits": 5,
+    "benign:spelling": 4,
+    "contradiction:owner_replaced": 1,
+    "contradiction:cultivator_changed": 2,
+    "benign:relation_word": 1,
+    "contradiction:share_changed": 2,
+    "renumber:khewat_renumbered": 5
+  }
+}

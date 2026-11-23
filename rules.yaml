@@ -1,0 +1,93 @@
+# Validation rule catalogue (report 5.3.6, Table 7).
+#
+# Each rule fires once per fact of type `fact` for which `check` is true. Facts are
+# derived from the extracted holding and its linked register row by the forward-
+# chaining knowledge base (src/lre/validate/kb.py). `check` is a small Python-like
+# expression over `fact` and `params` (comparisons, arithmetic, and/or/not, in,
+# abs/max/min/len); it is validated when the file is loaded. Every fired rule
+# stores the fact's fields as evidence.
+
+params:                       # defaults, used by the proposed system
+  name_match_threshold: 0.75  # owner names at or above this similarity are the same person (R5, R9)
+  area_abs_tol_marla: 1       # R7: area differs by more than max(1 marla, 2 %)
+  area_rel_tol: 0.02
+
+profiles:                     # named overrides, e.g. --profile exact
+  exact:                      # template baseline (report 5.2 v): exact string and number equality
+    name_match_threshold: 1.0
+    area_abs_tol_marla: 0
+    area_rel_tol: 0.0
+
+# Flags of these severities make a holding a CONTRADICTION; others only send fields to REVIEW.
+contradiction_severities: [high, medium]
+
+rules:
+  - id: R1
+    name: shares_sum_to_one
+    kind: intra
+    severity: high
+    fact: ShareSum
+    check: "not fact.readable or fact.total != 1"
+
+  - id: R2
+    name: plot_areas_add_up
+    kind: intra
+    severity: medium
+    fact: AreaTotal
+    check: "fact.written != fact.computed"
+
+  - id: R3
+    name: units_valid
+    kind: intra
+    severity: medium
+    fact: ScanPlot
+    check: "fact.marla is not None and (fact.marla >= 20 or fact.area_marla <= 0)"
+
+  - id: R4
+    name: vocabulary
+    kind: intra
+    severity: low
+    fact: VocabTerm
+    check: "fact.value not in fact.allowed"
+
+  - id: R5
+    name: owner_set_differs
+    kind: cross
+    severity: high
+    fact: OwnerUnmatched
+    check: "True"
+
+  - id: R6
+    name: share_differs
+    kind: cross
+    severity: high
+    fact: OwnerMatch
+    check: "fact.scan_share != fact.register_share"
+
+  - id: R7
+    name: area_differs
+    kind: cross
+    severity: high
+    fact: PlotPair
+    check: "abs(fact.scan_area - fact.register_area) > max(params.area_abs_tol_marla, params.area_rel_tol * fact.register_area)"
+
+  - id: R8
+    name: khasra_moved
+    kind: cross
+    severity: high
+    fact: KhasraElsewhere
+    check: "True"
+
+  - id: R9
+    name: cultivator_differs
+    kind: cross
+    severity: medium
+    fact: CultivatorPair
+    check: "not fact.same"
+
+  - id: R10
+    name: mutation_missing
+    kind: cross
+    severity: medium
+    fact: ScanMutation
+    check: "fact.mutation_no not in fact.register_history"

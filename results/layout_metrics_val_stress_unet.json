@@ -1,0 +1,35 @@
+{
+  "pages": 20,
+  "acceptance_passed": false,
+  "column_count_accuracy": 0.8,
+  "grid_ok_rate": 0.8,
+  "mean_cell_iou": 0.8349200939962295,
+  "cells_iou_ge_0.9": 0.8410596026490066,
+  "row_count_accuracy": 0.8,
+  "line_split_accuracy": 0.9272882805816938,
+  "mean_skew_err_deg": 0.03163245521971994,
+  "max_skew_err_deg": 0.10348838355956835,
+  "unet_fallback_used": 16,
+  "stress": true,
+  "failures": [
+    {
+      "page_id": "V053-P0014",
+      "reason": "found 1 columns, expected 12; U-Net fallback: found 10 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0015",
+      "reason": "found 1 columns, expected 12; U-Net fallback: found 11 columns, expected 12"
+    },
+    {
+      "page_id": "V053-P0016",
+      "reason": "found 0 columns, expected 12; U-Net fallback: found 10 columns, expected 12"
+    },
+    {
+      "page_id": "V054-P0003",
+      "reason": "found 0 columns, expected 12; U-Net fallback: found 10 columns, expected 12"
+    }
+  ],
+  "data": "data/synjama/val",
+  "config_hash": "345e37f21e86",
+  "unet": "models/unet_v1.pt"
+}

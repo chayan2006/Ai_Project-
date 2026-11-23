@@ -1,0 +1,15 @@
+{
+  "pages": 5,
+  "acceptance_passed": true,
+  "column_count_accuracy": 1.0,
+  "grid_ok_rate": 1.0,
+  "mean_cell_iou": 0.9975225997035763,
+  "cells_iou_ge_0.9": 1.0,
+  "row_count_accuracy": 1.0,
+  "line_split_accuracy": 0.9021479713603818,
+  "mean_skew_err_deg": 0.03735202302022904,
+  "max_skew_err_deg": 0.07569472308074443,
+  "failures": [],
+  "data": "data/sample",
+  "config_hash": "230c524450a6"
+}

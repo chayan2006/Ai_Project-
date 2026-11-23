@@ -1,0 +1,78 @@
+# Legacy Land Record Engine - configuration.
+# Every threshold the report mentions lives here so it can be tuned without code changes.
+
+paths:
+  data_dir: data
+  interim_dir: data/interim
+  fonts_dir: data/fonts
+  models_dir: models
+  results_dir: results
+  register_csv: data/register.csv
+  rules: rules.yaml
+  db_path: results/lre.db
+
+synth:
+  # Page geometry (report 4.4: pipeline expects 300 dpi scans)
+  dpi: 300
+  page_width_in: 14.0
+  page_height_in: 10.0
+  image_format: png          # png (report default) or jpg to save disk
+  # Village sampling (report D.6 step 1)
+  khewats_per_village: [80, 150]
+  owners_per_holding: [1, 4]
+  khasras_per_holding: [1, 5]
+  # Register perturbations (report D.6 step 4)
+  contradiction_rate: 0.12
+  benign_rate: 0.20
+  page_error_rate: 0.02      # intra-record errors written on the page itself (exercise R1/R2)
+  renumber_rate: 0.05        # khewat renumbered in the digital register (exercises the linker fallback)
+  # Split by village so that a village's register rows never straddle two splits
+  split_fractions: {train: 0.8, val: 0.1, test: 0.1}
+  # Handwriting-style OFL fonts; the test split uses held-out fonts (report Table 5)
+  fonts:
+    train: [Kalam-Light.ttf, Kalam-Regular.ttf, Kalam-Bold.ttf, Amita-Regular.ttf]
+    test: [Tillana-Regular.ttf, Tillana-Medium.ttf]
+    printed: Hind-Regular.ttf
+  font_px: [34, 46]
+  slant_deg: [-4, 14]        # positive = right-leaning
+  ascii_digit_prob: 0.6      # per village: ASCII digits, otherwise Devanagari digits
+  # Degradation (report D.6 step 3)
+  max_skew_deg: 5.0
+  jpeg_quality: [40, 90]
+  blur_prob: 0.5
+  stain_prob: 0.5
+  bleed_prob: 0.4
+  fade_prob: 0.5
+
+preprocess:
+  background_kernel: 51
+  clahe_clip: 2.0
+  clahe_tiles: 8
+  nlmeans_h: 10
+  deskew_max_deg: 10.0
+  sauvola_window: 31
+  sauvola_k: 0.2
+
+layout:
+  n_columns: 12
+  h_kernel_frac: 30          # horizontal kernel = width / 30
+  v_kernel_frac: 40          # vertical kernel = height / 40
+  cell_padding: 4
+  line_height: 64
+  width_buckets: [128, 256, 384, 512]
+
+decoding:
+  beam_width: 10
+  lexicon_weight: 0.6
+
+linking:
+  min_khasra_jaccard: 0.5
+  strong_khasra_jaccard: 0.8   # khasras are unique parcel ids: this much overlap needs no owner confirmation
+  min_owner_similarity: 0.6    # confirmation needed for weaker khasra overlap
+
+# Rule thresholds (R5, R7, R9) live in rules.yaml next to the rules that use them.
+
+routing:
+  alpha: 0.98                # target accuracy of auto-accepted fields
+  audit_sample: 0.02
+  contradiction_theta: from_validation

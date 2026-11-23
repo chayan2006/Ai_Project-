@@ -1,0 +1,3813 @@
+{
+  "page_id": "V000-P0001",
+  "split": "sample",
+  "village_code": "V000",
+  "village_name": "शेर कलां",
+  "hadbast": "279",
+  "register_year": "2000-01",
+  "image": "pages/V000-P0001.png",
+  "width": 4200,
+  "height": 3000,
+  "dpi": 300,
+  "frame": "deskewed",
+  "skew_deg": 1.9954944839526443,
+  "transform": {
+    "scale": 0.9938812991267519,
+    "tx": -3.7703643070318904,
+    "ty": 16.917162403171634,
+    "matrix_form_to_scan": [
+      [
+        0.993279,
+        0.034608,
+        -40.975795
+      ],
+      [
+        -0.034608,
+        0.993279,
+        99.796808
+      ]
+    ]
+  },
+  "font": "Kalam-Bold.ttf",
+  "font_px": 34,
+  "slant_deg": -3.09,
+  "digit_style": "ascii",
+  "ink": [
+    22,
+    26,
+    48
+  ],
+  "paper": [
+    232,
+    222,
+    196
+  ],
+  "degradation": {
+    "fade": 0.425,
+    "bleed": 0.119,
+    "stains": 4,
+    "blur": 1.06,
+    "jpeg_quality": 72
+  },
+  "seed": 2760652554491045216,
+  "columns": [
+    {
+      "index": 0,
+      "x0": 176,
+      "x1": 368
+    },
+    {
+      "index": 1,
+      "x0": 368,
+      "x1": 580
+    },
+    {
+      "index": 2,
+      "x0": 580,
+      "x1": 829
+    },
+    {
+      "index": 3,
+      "x0": 829,
+      "x1": 1713
+    },
+    {
+      "index": 4,
+      "x0": 1713,
+      "x1": 2173
+    },
+    {
+      "index": 5,
+      "x0": 2173,
+      "x1": 2403
+    },
+    {
+      "index": 6,
+      "x0": 2403,
+      "x1": 2692
+    },
+    {
+      "index": 7,
+      "x0": 2692,
+      "x1": 3114
+    },
+    {
+      "index": 8,
+      "x0": 3114,
+      "x1": 3306
+    },
+    {
+      "index": 9,
+      "x0": 3306,
+      "x1": 3479
+    },
+    {
+      "index": 10,
+      "x0": 3479,
+      "x1": 3652
+    },
+    {
+      "index": 11,
+      "x0": 3652,
+      "x1": 4016
+    }
+  ],
+  "header": {
+    "y0": 250,
+    "y1": 458
+  },
+  "table_bottom": 2829,
+  "h_lines": [
+    {
+      "y": 250,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 458,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 2829,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 765,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 919,
+      "x0": 176,
+      "x1": 4016,
+      "w": 2
+    },
+    {
+      "y": 1174,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 1328,
+      "x0": 176,
+      "x1": 4016,
+      "w": 2
+    },
+    {
+      "y": 1482,
+      "x0": 176,
+      "x1": 4016,
+      "w": 2
+    },
+    {
+      "y": 1738,
+      "x0": 176,
+      "x1": 4016,
+      "w": 2
+    },
+    {
+      "y": 1892,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 2248,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 2555,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    },
+    {
+      "y": 2759,
+      "x0": 176,
+      "x1": 4016,
+      "w": 3
+    }
+  ],
+  "v_lines": [
+    {
+      "x": 176,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 368,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 580,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 829,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 1713,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 2173,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 2403,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 2692,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 3114,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 3306,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 3479,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 3652,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    },
+    {
+      "x": 4016,
+      "y0": 250,
+      "y1": 2829,
+      "w": 3
+    }
+  ],
+  "holdings": [
+    {
+      "holding_id": "V000-P0001-R01",
+      "village_code": "V000",
+      "khewat_no": "1",
+      "khatauni_no": "1",
+      "page_id": "V000-P0001",
+      "row_index": 0,
+      "patti": "पत्ती दोयम",
+      "owners": [
+        {
+          "name": "हरी पाल",
+          "relation": "s/o",
+          "parent": "प्रीतम पाल",
+          "share": "1/1",
+          "conf": null
+        }
+      ],
+      "cultivator": "रघुबीर राम s/o अनिल चंद",
+      "irrigation": "बारानी",
+      "plots": [
+        {
+          "khasra": "1//23",
+          "area_marla": 157,
+          "land_type": "banjar_kadim",
+          "conf": null
+        },
+        {
+          "khasra": "1//11",
+          "area_marla": 71,
+          "land_type": "nehri",
+          "conf": null
+        },
+        {
+          "khasra": "2//3",
+          "area_marla": 223,
+          "land_type": "chahi",
+          "conf": null
+        },
+        {
+          "khasra": "3//6",
+          "area_marla": 128,
+          "land_type": "chahi",
+          "conf": null
+        }
+      ],
+      "total_area_marla": 579,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        458,
+        3840,
+        306
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            458,
+            192,
+            306
+          ],
+          "lines": [
+            {
+              "text": "1",
+              "bbox": [
+                202,
+                507,
+                8,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            458,
+            212,
+            306
+          ],
+          "lines": [
+            {
+              "text": "1",
+              "bbox": [
+                388,
+                490,
+                8,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            458,
+            249,
+            306
+          ],
+          "lines": [
+            {
+              "text": "पत्ती दोयम",
+              "bbox": [
+                603,
+                486,
+                156,
+                43
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            458,
+            884,
+            306
+          ],
+          "lines": [
+            {
+              "text": "हरी पाल वल्द प्रीतम पाल हिस्सा 1/1",
+              "bbox": [
+                860,
+                486,
+                483,
+                45
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            458,
+            460,
+            306
+          ],
+          "lines": [
+            {
+              "text": "रघुबीर राम पु. अनिल चंद",
+              "bbox": [
+                1738,
+                502,
+                363,
+                45
+              ],
+              "clipped": false
+            },
+            {
+              "text": "(मुजारा)",
+              "bbox": [
+                1743,
+                556,
+                115,
+                42
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            458,
+            231,
+            306
+          ],
+          "lines": [
+            {
+              "text": "बारानी",
+              "bbox": [
+                2193,
+                500,
+                97,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            458,
+            288,
+            306
+          ],
+          "lines": [
+            {
+              "text": "1//23",
+              "bbox": [
+                2427,
+                496,
+                65,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "1//11",
+              "bbox": [
+                2426,
+                546,
+                48,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "2//3",
+              "bbox": [
+                2430,
+                599,
+                57,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "3//6",
+              "bbox": [
+                2425,
+                646,
+                57,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            458,
+            422,
+            306
+          ],
+          "lines": [
+            {
+              "text": "7-17 बंजर कदीम",
+              "bbox": [
+                2714,
+                490,
+                238,
+                43
+              ],
+              "clipped": false
+            },
+            {
+              "text": "3-11 नहरी",
+              "bbox": [
+                2707,
+                542,
+                148,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "11-03 चाही",
+              "bbox": [
+                2721,
+                593,
+                156,
+                37
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6-08 चाही",
+              "bbox": [
+                2720,
+                641,
+                157,
+                37
+              ],
+              "clipped": false
+            },
+            {
+              "text": "कुल 28-19",
+              "bbox": [
+                2710,
+                706,
+                160,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            458,
+            192,
+            306
+          ],
+          "lines": [
+            {
+              "text": "32.00",
+              "bbox": [
+                3139,
+                501,
+                81,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            458,
+            173,
+            306
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            458,
+            173,
+            306
+          ],
+          "lines": [
+            {
+              "text": "18.00",
+              "bbox": [
+                3500,
+                503,
+                71,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            458,
+            365,
+            306
+          ],
+          "lines": []
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R02",
+      "village_code": "V000",
+      "khewat_no": "2",
+      "khatauni_no": "2",
+      "page_id": "V000-P0001",
+      "row_index": 1,
+      "patti": "पत्ती दोयम",
+      "owners": [
+        {
+          "name": "प्रेम लाल",
+          "relation": "s/o",
+          "parent": "सुनील प्रकाश",
+          "share": "1/2",
+          "conf": null
+        },
+        {
+          "name": "सुरेश चंद",
+          "relation": "s/o",
+          "parent": "हरभजन दत्त",
+          "share": "1/2",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "नहरी",
+      "plots": [
+        {
+          "khasra": "3//24",
+          "area_marla": 133,
+          "land_type": "nehri",
+          "conf": null
+        },
+        {
+          "khasra": "4//19",
+          "area_marla": 172,
+          "land_type": "chahi",
+          "conf": null
+        }
+      ],
+      "total_area_marla": null,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        765,
+        3840,
+        154
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            765,
+            192,
+            154
+          ],
+          "lines": [
+            {
+              "text": "2",
+              "bbox": [
+                206,
+                800,
+                19,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            765,
+            212,
+            154
+          ],
+          "lines": [
+            {
+              "text": "2",
+              "bbox": [
+                383,
+                814,
+                19,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            765,
+            249,
+            154
+          ],
+          "lines": [
+            {
+              "text": "पत्ती दोयम",
+              "bbox": [
+                600,
+                796,
+                161,
+                43
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            765,
+            884,
+            154
+          ],
+          "lines": [
+            {
+              "text": "प्रेम लाल पुत्र सुनील प्रकाश हिस्सा 1/2",
+              "bbox": [
+                855,
+                801,
+                534,
+                48
+              ],
+              "clipped": false
+            },
+            {
+              "text": "सुरेश चंद पुत्र हरभजन दत्त हिस्सा 1/2",
+              "bbox": [
+                846,
+                852,
+                518,
+                46
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            765,
+            460,
+            154
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1739,
+                801,
+                130,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            765,
+            231,
+            154
+          ],
+          "lines": [
+            {
+              "text": "नहरी",
+              "bbox": [
+                2200,
+                803,
+                72,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            765,
+            288,
+            154
+          ],
+          "lines": [
+            {
+              "text": "3//24",
+              "bbox": [
+                2426,
+                797,
+                77,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "4//19",
+              "bbox": [
+                2429,
+                850,
+                64,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            765,
+            422,
+            154
+          ],
+          "lines": [
+            {
+              "text": "6-13 नहरी",
+              "bbox": [
+                2714,
+                809,
+                156,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "8-12 चाही",
+              "bbox": [
+                2718,
+                858,
+                152,
+                37
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            765,
+            192,
+            154
+          ],
+          "lines": []
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            765,
+            173,
+            154
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            765,
+            173,
+            154
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            765,
+            365,
+            154
+          ],
+          "lines": []
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R03",
+      "village_code": "V000",
+      "khewat_no": "3",
+      "khatauni_no": "3-4",
+      "page_id": "V000-P0001",
+      "row_index": 2,
+      "patti": "पत्ती अव्वल",
+      "owners": [
+        {
+          "name": "बलवंत दास",
+          "relation": "s/o",
+          "parent": "दलीप चंद",
+          "share": "1/4",
+          "conf": null
+        },
+        {
+          "name": "जसवंत राम",
+          "relation": "s/o",
+          "parent": "विजय पाल",
+          "share": "1/4",
+          "conf": null
+        },
+        {
+          "name": "भगवती देवी",
+          "relation": "w/o",
+          "parent": "पवन दत्त",
+          "share": "1/4",
+          "conf": null
+        },
+        {
+          "name": "सुनील नाथ",
+          "relation": "s/o",
+          "parent": "मुकेश दास",
+          "share": "1/4",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "आबी",
+      "plots": [
+        {
+          "khasra": "4//24",
+          "area_marla": 183,
+          "land_type": "abi",
+          "conf": null
+        }
+      ],
+      "total_area_marla": null,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        919,
+        3840,
+        255
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            919,
+            192,
+            255
+          ],
+          "lines": [
+            {
+              "text": "3",
+              "bbox": [
+                199,
+                960,
+                19,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            919,
+            212,
+            255
+          ],
+          "lines": [
+            {
+              "text": "3-4",
+              "bbox": [
+                397,
+                959,
+                56,
+                26
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            919,
+            249,
+            255
+          ],
+          "lines": [
+            {
+              "text": "पत्ती अव्वल",
+              "bbox": [
+                606,
+                953,
+                163,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            919,
+            884,
+            255
+          ],
+          "lines": [
+            {
+              "text": "बलवंत दास वल्द दलीप चंद हिस्सा 1/4",
+              "bbox": [
+                858,
+                942,
+                534,
+                45
+              ],
+              "clipped": false
+            },
+            {
+              "text": "जसवंत राम पुत्र विजय पाल हिस्सा 1/4",
+              "bbox": [
+                858,
+                993,
+                532,
+                49
+              ],
+              "clipped": false
+            },
+            {
+              "text": "भगवती देवी पत्नी पवन दत्त हिस्सा 1/4",
+              "bbox": [
+                861,
+                1045,
+                519,
+                45
+              ],
+              "clipped": false
+            },
+            {
+              "text": "सुनील नाथ पुत्र मुकेश दास हिस्सा 1/4",
+              "bbox": [
+                843,
+                1096,
+                522,
+                49
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            919,
+            460,
+            255
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1734,
+                960,
+                131,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            919,
+            231,
+            255
+          ],
+          "lines": [
+            {
+              "text": "आबी",
+              "bbox": [
+                2190,
+                959,
+                75,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            919,
+            288,
+            255
+          ],
+          "lines": [
+            {
+              "text": "4//24",
+              "bbox": [
+                2429,
+                960,
+                75,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            919,
+            422,
+            255
+          ],
+          "lines": [
+            {
+              "text": "9-03 आबी",
+              "bbox": [
+                2718,
+                948,
+                156,
+                36
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            919,
+            192,
+            255
+          ],
+          "lines": []
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            919,
+            173,
+            255
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            919,
+            173,
+            255
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            919,
+            365,
+            255
+          ],
+          "lines": []
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R04",
+      "village_code": "V000",
+      "khewat_no": "4",
+      "khatauni_no": "5-6",
+      "page_id": "V000-P0001",
+      "row_index": 3,
+      "patti": "पत्ती सोयम",
+      "owners": [
+        {
+          "name": "रणजीत पाल",
+          "relation": "s/o",
+          "parent": "कुलदीप लाल",
+          "share": "1/2",
+          "conf": null
+        },
+        {
+          "name": "जोगिंदर चंद",
+          "relation": "s/o",
+          "parent": "कुलदीप लाल",
+          "share": "1/2",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "नहरी",
+      "plots": [
+        {
+          "khasra": "4//7",
+          "area_marla": 66,
+          "land_type": "nehri",
+          "conf": null
+        }
+      ],
+      "total_area_marla": null,
+      "remarks": {
+        "raw": "इंतकाल नं. 4374 दि. 18-12-2005",
+        "mutation_no": "4374",
+        "date": "2005-12-18",
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        1174,
+        3840,
+        154
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            1174,
+            192,
+            154
+          ],
+          "lines": [
+            {
+              "text": "4",
+              "bbox": [
+                206,
+                1220,
+                17,
+                26
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            1174,
+            212,
+            154
+          ],
+          "lines": [
+            {
+              "text": "5-6",
+              "bbox": [
+                383,
+                1223,
+                53,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            1174,
+            249,
+            154
+          ],
+          "lines": [
+            {
+              "text": "पत्ती सोयम",
+              "bbox": [
+                596,
+                1203,
+                162,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            1174,
+            884,
+            154
+          ],
+          "lines": [
+            {
+              "text": "रणजीत पाल पुत्र कुलदीप लाल हिस्सा 1/2",
+              "bbox": [
+                844,
+                1211,
+                585,
+                47
+              ],
+              "clipped": false
+            },
+            {
+              "text": "जोगिंदर चंद पु. कुलदीप लाल हिस्सा 1/2",
+              "bbox": [
+                850,
+                1263,
+                552,
+                46
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            1174,
+            460,
+            154
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1729,
+                1225,
+                131,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            1174,
+            231,
+            154
+          ],
+          "lines": [
+            {
+              "text": "नहरी",
+              "bbox": [
+                2198,
+                1198,
+                71,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            1174,
+            288,
+            154
+          ],
+          "lines": [
+            {
+              "text": "4//7",
+              "bbox": [
+                2419,
+                1215,
+                54,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            1174,
+            422,
+            154
+          ],
+          "lines": [
+            {
+              "text": "3-06 नहरी",
+              "bbox": [
+                2707,
+                1212,
+                162,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            1174,
+            192,
+            154
+          ],
+          "lines": [
+            {
+              "text": "59.75",
+              "bbox": [
+                3136,
+                1211,
+                78,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            1174,
+            173,
+            154
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            1174,
+            173,
+            154
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            1174,
+            365,
+            154
+          ],
+          "lines": [
+            {
+              "text": "इंतकाल नं. 4374",
+              "bbox": [
+                3673,
+                1212,
+                244,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "दि. 18-12-2005",
+              "bbox": [
+                3679,
+                1267,
+                223,
+                41
+              ],
+              "clipped": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R05",
+      "village_code": "V000",
+      "khewat_no": "5",
+      "khatauni_no": "7-8",
+      "page_id": "V000-P0001",
+      "row_index": 4,
+      "patti": "पत्ती सोयम",
+      "owners": [
+        {
+          "name": "जगदीश पाल",
+          "relation": "s/o",
+          "parent": "अनिल प्रकाश",
+          "share": "1/2",
+          "conf": null
+        },
+        {
+          "name": "चंदर दास",
+          "relation": "s/o",
+          "parent": "जगदीश लाल",
+          "share": "1/2",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "नहरी",
+      "plots": [
+        {
+          "khasra": "5//21",
+          "area_marla": 225,
+          "land_type": "nehri",
+          "conf": null
+        },
+        {
+          "khasra": "6//15",
+          "area_marla": 160,
+          "land_type": "barani",
+          "conf": null
+        }
+      ],
+      "total_area_marla": null,
+      "remarks": {
+        "raw": "इंतकाल नं. 5704 दि. 17-04-2003",
+        "mutation_no": "5704",
+        "date": "2003-04-17",
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        1328,
+        3840,
+        154
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            1328,
+            192,
+            154
+          ],
+          "lines": [
+            {
+              "text": "5",
+              "bbox": [
+                206,
+                1372,
+                19,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            1328,
+            212,
+            154
+          ],
+          "lines": [
+            {
+              "text": "7-8",
+              "bbox": [
+                390,
+                1373,
+                52,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            1328,
+            249,
+            154
+          ],
+          "lines": [
+            {
+              "text": "पत्ती सोयम",
+              "bbox": [
+                605,
+                1370,
+                165,
+                36
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            1328,
+            884,
+            154
+          ],
+          "lines": [
+            {
+              "text": "जगदीश पाल पुत्र अनिल प्रकाश हिस्सा 1/2",
+              "bbox": [
+                853,
+                1370,
+                589,
+                44
+              ],
+              "clipped": false
+            },
+            {
+              "text": "चंदर दास पुत्र जगदीश लाल हिस्सा 1/2",
+              "bbox": [
+                856,
+                1422,
+                539,
+                44
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            1328,
+            460,
+            154
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1727,
+                1378,
+                130,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            1328,
+            231,
+            154
+          ],
+          "lines": [
+            {
+              "text": "नहरी",
+              "bbox": [
+                2197,
+                1358,
+                72,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            1328,
+            288,
+            154
+          ],
+          "lines": [
+            {
+              "text": "5//21",
+              "bbox": [
+                2428,
+                1365,
+                66,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6//15",
+              "bbox": [
+                2428,
+                1412,
+                67,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            1328,
+            422,
+            154
+          ],
+          "lines": [
+            {
+              "text": "11-05 नहरी",
+              "bbox": [
+                2723,
+                1361,
+                162,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "8-00 बारानी",
+              "bbox": [
+                2718,
+                1411,
+                185,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            1328,
+            192,
+            154
+          ],
+          "lines": [
+            {
+              "text": "25.25",
+              "bbox": [
+                3135,
+                1366,
+                83,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            1328,
+            173,
+            154
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            1328,
+            173,
+            154
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            1328,
+            365,
+            154
+          ],
+          "lines": [
+            {
+              "text": "इंतकाल नं. 5704",
+              "bbox": [
+                3679,
+                1363,
+                240,
+                41
+              ],
+              "clipped": false
+            },
+            {
+              "text": "दि. 17-04-2003",
+              "bbox": [
+                3672,
+                1415,
+                227,
+                41
+              ],
+              "clipped": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R06",
+      "village_code": "V000",
+      "khewat_no": "6",
+      "khatauni_no": "9",
+      "page_id": "V000-P0001",
+      "row_index": 5,
+      "patti": "पत्ती खुर्द",
+      "owners": [
+        {
+          "name": "सुखदेव नाथ",
+          "relation": "s/o",
+          "parent": "शिव दास",
+          "share": "3/4",
+          "conf": null
+        },
+        {
+          "name": "रेखा रानी",
+          "relation": "d/o",
+          "parent": "शिव दास",
+          "share": "1/4",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "बारानी",
+      "plots": [
+        {
+          "khasra": "6//23",
+          "area_marla": 108,
+          "land_type": "gair_mumkin",
+          "conf": null
+        },
+        {
+          "khasra": "6//2",
+          "area_marla": 308,
+          "land_type": "chahi",
+          "conf": null
+        },
+        {
+          "khasra": "6//19",
+          "area_marla": 26,
+          "land_type": "nehri",
+          "conf": null
+        }
+      ],
+      "total_area_marla": 442,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        1482,
+        3840,
+        255
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            1482,
+            192,
+            255
+          ],
+          "lines": [
+            {
+              "text": "6",
+              "bbox": [
+                206,
+                1528,
+                18,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            1482,
+            212,
+            255
+          ],
+          "lines": [
+            {
+              "text": "9",
+              "bbox": [
+                395,
+                1518,
+                15,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            1482,
+            249,
+            255
+          ],
+          "lines": [
+            {
+              "text": "पत्ती खुर्द",
+              "bbox": [
+                594,
+                1517,
+                132,
+                44
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            1482,
+            884,
+            255
+          ],
+          "lines": [
+            {
+              "text": "सुखदेव नाथ पुत्र शिव दास हिस्सा 3/4",
+              "bbox": [
+                850,
+                1511,
+                519,
+                48
+              ],
+              "clipped": false
+            },
+            {
+              "text": "रेखा रानी पुत्री शिव दास हिस्सा 1/4",
+              "bbox": [
+                850,
+                1562,
+                491,
+                48
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            1482,
+            460,
+            255
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1728,
+                1536,
+                130,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            1482,
+            231,
+            255
+          ],
+          "lines": [
+            {
+              "text": "बारानी",
+              "bbox": [
+                2203,
+                1516,
+                97,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            1482,
+            288,
+            255
+          ],
+          "lines": [
+            {
+              "text": "6//23",
+              "bbox": [
+                2426,
+                1518,
+                75,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6//2",
+              "bbox": [
+                2424,
+                1570,
+                57,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6//19",
+              "bbox": [
+                2425,
+                1618,
+                65,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            1482,
+            422,
+            255
+          ],
+          "lines": [
+            {
+              "text": "5-08 गैर मुमकिन",
+              "bbox": [
+                2707,
+                1520,
+                250,
+                47
+              ],
+              "clipped": false
+            },
+            {
+              "text": "15-08 चाही",
+              "bbox": [
+                2709,
+                1574,
+                161,
+                37
+              ],
+              "clipped": false
+            },
+            {
+              "text": "1-06 नहरी",
+              "bbox": [
+                2723,
+                1622,
+                151,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "कुल 22-02",
+              "bbox": [
+                2712,
+                1684,
+                166,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            1482,
+            192,
+            255
+          ],
+          "lines": [
+            {
+              "text": "47.25",
+              "bbox": [
+                3132,
+                1526,
+                80,
+                26
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            1482,
+            173,
+            255
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            1482,
+            173,
+            255
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            1482,
+            365,
+            255
+          ],
+          "lines": []
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R07",
+      "village_code": "V000",
+      "khewat_no": "7",
+      "khatauni_no": "10",
+      "page_id": "V000-P0001",
+      "row_index": 6,
+      "patti": "पत्ती अव्वल",
+      "owners": [
+        {
+          "name": "ओम कुमार",
+          "relation": "s/o",
+          "parent": "बचन कुमार",
+          "share": "3/4",
+          "conf": null
+        },
+        {
+          "name": "राम नाथ",
+          "relation": "s/o",
+          "parent": "सुनील कुमार",
+          "share": "1/4",
+          "conf": null
+        }
+      ],
+      "cultivator": "सुरेश दास s/o नरेश दास",
+      "irrigation": "बारानी",
+      "plots": [
+        {
+          "khasra": "6//16",
+          "area_marla": 253,
+          "land_type": "gair_mumkin",
+          "conf": null
+        },
+        {
+          "khasra": "6//11",
+          "area_marla": 136,
+          "land_type": "barani",
+          "conf": null
+        }
+      ],
+      "total_area_marla": null,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        1738,
+        3840,
+        154
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            1738,
+            192,
+            154
+          ],
+          "lines": [
+            {
+              "text": "7",
+              "bbox": [
+                207,
+                1781,
+                15,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            1738,
+            212,
+            154
+          ],
+          "lines": [
+            {
+              "text": "10",
+              "bbox": [
+                388,
+                1775,
+                26,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            1738,
+            249,
+            154
+          ],
+          "lines": [
+            {
+              "text": "पत्ती अव्वल",
+              "bbox": [
+                593,
+                1769,
+                163,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            1738,
+            884,
+            154
+          ],
+          "lines": [
+            {
+              "text": "ओम कुमार पुत्र बचन कुमार हिस्सा 3/4",
+              "bbox": [
+                849,
+                1764,
+                559,
+                46
+              ],
+              "clipped": false
+            },
+            {
+              "text": "राम नाथ पुत्र सुनील कुमार हिस्सा 1/4",
+              "bbox": [
+                848,
+                1813,
+                523,
+                49
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            1738,
+            460,
+            154
+          ],
+          "lines": [
+            {
+              "text": "सुरेश दास वल्द नरेश दास",
+              "bbox": [
+                1727,
+                1767,
+                371,
+                45
+              ],
+              "clipped": false
+            },
+            {
+              "text": "(मुजारा)",
+              "bbox": [
+                1733,
+                1823,
+                115,
+                42
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            1738,
+            231,
+            154
+          ],
+          "lines": [
+            {
+              "text": "बारानी",
+              "bbox": [
+                2195,
+                1777,
+                97,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            1738,
+            288,
+            154
+          ],
+          "lines": [
+            {
+              "text": "6//16",
+              "bbox": [
+                2431,
+                1772,
+                65,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6//11",
+              "bbox": [
+                2418,
+                1821,
+                58,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            1738,
+            422,
+            154
+          ],
+          "lines": [
+            {
+              "text": "12-13 गैर मुमकिन",
+              "bbox": [
+                2723,
+                1774,
+                259,
+                49
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6-16 बारानी",
+              "bbox": [
+                2718,
+                1829,
+                177,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            1738,
+            192,
+            154
+          ],
+          "lines": [
+            {
+              "text": "56.25",
+              "bbox": [
+                3139,
+                1776,
+                82,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            1738,
+            173,
+            154
+          ],
+          "lines": [
+            {
+              "text": "5.00",
+              "bbox": [
+                3336,
+                1780,
+                61,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            1738,
+            173,
+            154
+          ],
+          "lines": [
+            {
+              "text": "63.00",
+              "bbox": [
+                3506,
+                1784,
+                81,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            1738,
+            365,
+            154
+          ],
+          "lines": []
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R08",
+      "village_code": "V000",
+      "khewat_no": "8",
+      "khatauni_no": "11",
+      "page_id": "V000-P0001",
+      "row_index": 7,
+      "patti": "पत्ती दोयम",
+      "owners": [
+        {
+          "name": "भगवती रानी",
+          "relation": "d/o",
+          "parent": "सुरेंद्र पाल",
+          "share": "1/6",
+          "conf": null
+        },
+        {
+          "name": "शिव दास",
+          "relation": "s/o",
+          "parent": "सुरेंद्र पाल",
+          "share": "1/2",
+          "conf": null
+        },
+        {
+          "name": "गुरप्रीत कौर",
+          "relation": "d/o",
+          "parent": "सुरेंद्र पाल",
+          "share": "1/6",
+          "conf": null
+        },
+        {
+          "name": "ओम नाथ",
+          "relation": "s/o",
+          "parent": "सुरेंद्र पाल",
+          "share": "1/6",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "बारानी",
+      "plots": [
+        {
+          "khasra": "6//21",
+          "area_marla": 66,
+          "land_type": "barani",
+          "conf": null
+        },
+        {
+          "khasra": "6//14",
+          "area_marla": 314,
+          "land_type": "gair_mumkin",
+          "conf": null
+        },
+        {
+          "khasra": "6//12",
+          "area_marla": 169,
+          "land_type": "banjar_kadim",
+          "conf": null
+        },
+        {
+          "khasra": "6//10",
+          "area_marla": 199,
+          "land_type": "chahi",
+          "conf": null
+        },
+        {
+          "khasra": "7//24",
+          "area_marla": 282,
+          "land_type": "banjar_kadim",
+          "conf": null
+        }
+      ],
+      "total_area_marla": 1030,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        1892,
+        3840,
+        357
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            1892,
+            192,
+            357
+          ],
+          "lines": [
+            {
+              "text": "8",
+              "bbox": [
+                208,
+                1927,
+                18,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            1892,
+            212,
+            357
+          ],
+          "lines": [
+            {
+              "text": "11",
+              "bbox": [
+                385,
+                1933,
+                18,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            1892,
+            249,
+            357
+          ],
+          "lines": [
+            {
+              "text": "पत्ती दोयम",
+              "bbox": [
+                600,
+                1931,
+                154,
+                44
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            1892,
+            884,
+            357
+          ],
+          "lines": [
+            {
+              "text": "भगवती रानी पुत्री सुरेंद्र पाल हिस्सा 1/6",
+              "bbox": [
+                852,
+                1918,
+                547,
+                47
+              ],
+              "clipped": false
+            },
+            {
+              "text": "शिव दास पु. सुरेंद्र पाल हिस्सा 1/2",
+              "bbox": [
+                846,
+                1970,
+                472,
+                48
+              ],
+              "clipped": false
+            },
+            {
+              "text": "गुरप्रीत कौर पुत्री सुरेंद्र पाल हिस्सा 1/6",
+              "bbox": [
+                849,
+                2015,
+                529,
+                53
+              ],
+              "clipped": false
+            },
+            {
+              "text": "ओम नाथ पुत्र सुरेंद्र पाल हिस्सा 1/6",
+              "bbox": [
+                855,
+                2072,
+                485,
+                45
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            1892,
+            460,
+            357
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1742,
+                1939,
+                131,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            1892,
+            231,
+            357
+          ],
+          "lines": [
+            {
+              "text": "बारानी",
+              "bbox": [
+                2201,
+                1927,
+                97,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            1892,
+            288,
+            357
+          ],
+          "lines": [
+            {
+              "text": "6//21",
+              "bbox": [
+                2421,
+                1935,
+                67,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6//14",
+              "bbox": [
+                2430,
+                1985,
+                66,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6//12",
+              "bbox": [
+                2426,
+                2033,
+                67,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "6//10",
+              "bbox": [
+                2423,
+                2085,
+                66,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "7//24",
+              "bbox": [
+                2420,
+                2134,
+                71,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            1892,
+            422,
+            357
+          ],
+          "lines": [
+            {
+              "text": "3-06 बारानी",
+              "bbox": [
+                2713,
+                1923,
+                187,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "15-14 गैर मुमकिन",
+              "bbox": [
+                2718,
+                1968,
+                254,
+                47
+              ],
+              "clipped": false
+            },
+            {
+              "text": "8-09 बंजर कदीम",
+              "bbox": [
+                2718,
+                2022,
+                248,
+                42
+              ],
+              "clipped": false
+            },
+            {
+              "text": "9-19 चाही",
+              "bbox": [
+                2721,
+                2074,
+                143,
+                37
+              ],
+              "clipped": false
+            },
+            {
+              "text": "14-02 बंजर कदीम",
+              "bbox": [
+                2722,
+                2124,
+                259,
+                45
+              ],
+              "clipped": false
+            },
+            {
+              "text": "कुल 51-10",
+              "bbox": [
+                2709,
+                2182,
+                142,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            1892,
+            192,
+            357
+          ],
+          "lines": [
+            {
+              "text": "26.00",
+              "bbox": [
+                3134,
+                1942,
+                81,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            1892,
+            173,
+            357
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            1892,
+            173,
+            357
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            1892,
+            365,
+            357
+          ],
+          "lines": []
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R09",
+      "village_code": "V000",
+      "khewat_no": "9",
+      "khatauni_no": "12",
+      "page_id": "V000-P0001",
+      "row_index": 8,
+      "patti": "पत्ती अव्वल",
+      "owners": [
+        {
+          "name": "ओम प्रकाश",
+          "relation": "s/o",
+          "parent": "प्रेम दत्त",
+          "share": "1/1",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "बारानी",
+      "plots": [
+        {
+          "khasra": "7//14",
+          "area_marla": 16,
+          "land_type": "banjar_kadim",
+          "conf": null
+        },
+        {
+          "khasra": "7//19",
+          "area_marla": 163,
+          "land_type": "chahi",
+          "conf": null
+        },
+        {
+          "khasra": "8//8",
+          "area_marla": 240,
+          "land_type": "barani",
+          "conf": null
+        },
+        {
+          "khasra": "8//3",
+          "area_marla": 72,
+          "land_type": "nehri",
+          "conf": null
+        },
+        {
+          "khasra": "9//22",
+          "area_marla": 101,
+          "land_type": "nehri",
+          "conf": null
+        }
+      ],
+      "total_area_marla": null,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        2248,
+        3840,
+        306
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            2248,
+            192,
+            306
+          ],
+          "lines": [
+            {
+              "text": "9",
+              "bbox": [
+                205,
+                2299,
+                15,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            2248,
+            212,
+            306
+          ],
+          "lines": [
+            {
+              "text": "12",
+              "bbox": [
+                396,
+                2283,
+                27,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            2248,
+            249,
+            306
+          ],
+          "lines": [
+            {
+              "text": "पत्ती अव्वल",
+              "bbox": [
+                599,
+                2282,
+                168,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            2248,
+            884,
+            306
+          ],
+          "lines": [
+            {
+              "text": "ओम प्रकाश पुत्र प्रेम दत्त हिस्सा 1/1",
+              "bbox": [
+                845,
+                2277,
+                477,
+                47
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            2248,
+            460,
+            306
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1730,
+                2295,
+                130,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            2248,
+            231,
+            306
+          ],
+          "lines": [
+            {
+              "text": "बारानी",
+              "bbox": [
+                2195,
+                2285,
+                97,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            2248,
+            288,
+            306
+          ],
+          "lines": [
+            {
+              "text": "7//14",
+              "bbox": [
+                2423,
+                2281,
+                62,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "7//19",
+              "bbox": [
+                2430,
+                2330,
+                61,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "8//8",
+              "bbox": [
+                2431,
+                2386,
+                57,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "8//3",
+              "bbox": [
+                2422,
+                2432,
+                55,
+                32
+              ],
+              "clipped": false
+            },
+            {
+              "text": "9//22",
+              "bbox": [
+                2432,
+                2480,
+                74,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            2248,
+            422,
+            306
+          ],
+          "lines": [
+            {
+              "text": "0-16 बंजर कदीम",
+              "bbox": [
+                2712,
+                2279,
+                244,
+                42
+              ],
+              "clipped": false
+            },
+            {
+              "text": "8-03 चाही",
+              "bbox": [
+                2709,
+                2330,
+                154,
+                37
+              ],
+              "clipped": false
+            },
+            {
+              "text": "12-00 बारानी",
+              "bbox": [
+                2710,
+                2381,
+                191,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "3-12 नहरी",
+              "bbox": [
+                2716,
+                2433,
+                158,
+                38
+              ],
+              "clipped": false
+            },
+            {
+              "text": "5-01 नहरी",
+              "bbox": [
+                2716,
+                2482,
+                148,
+                38
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            2248,
+            192,
+            306
+          ],
+          "lines": [
+            {
+              "text": "41.00",
+              "bbox": [
+                3142,
+                2289,
+                71,
+                26
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            2248,
+            173,
+            306
+          ],
+          "lines": [
+            {
+              "text": "5.50",
+              "bbox": [
+                3324,
+                2292,
+                60,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            2248,
+            173,
+            306
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            2248,
+            365,
+            306
+          ],
+          "lines": []
+        }
+      ]
+    },
+    {
+      "holding_id": "V000-P0001-R10",
+      "village_code": "V000",
+      "khewat_no": "10",
+      "khatauni_no": "13",
+      "page_id": "V000-P0001",
+      "row_index": 9,
+      "patti": "पत्ती सोयम",
+      "owners": [
+        {
+          "name": "राज कौर",
+          "relation": "d/o",
+          "parent": "हरी नाथ",
+          "share": "1/6",
+          "conf": null
+        },
+        {
+          "name": "कुलदीप राम",
+          "relation": "s/o",
+          "parent": "हरी नाथ",
+          "share": "2/3",
+          "conf": null
+        },
+        {
+          "name": "ऊषा कुमारी",
+          "relation": "d/o",
+          "parent": "हरी नाथ",
+          "share": "1/6",
+          "conf": null
+        }
+      ],
+      "cultivator": "khudkasht",
+      "irrigation": "चाही",
+      "plots": [
+        {
+          "khasra": "10//4",
+          "area_marla": 56,
+          "land_type": "chahi",
+          "conf": null
+        }
+      ],
+      "total_area_marla": null,
+      "remarks": {
+        "raw": "",
+        "mutation_no": null,
+        "date": null,
+        "conf": null
+      },
+      "link": null,
+      "flags": [],
+      "route": null,
+      "models": {},
+      "row_bbox": [
+        176,
+        2555,
+        3840,
+        205
+      ],
+      "cells": [
+        {
+          "col": 0,
+          "field": "khewat_no",
+          "bbox": [
+            176,
+            2555,
+            192,
+            205
+          ],
+          "lines": [
+            {
+              "text": "10",
+              "bbox": [
+                194,
+                2594,
+                25,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 1,
+          "field": "khatauni_no",
+          "bbox": [
+            368,
+            2555,
+            212,
+            205
+          ],
+          "lines": [
+            {
+              "text": "13",
+              "bbox": [
+                389,
+                2600,
+                26,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 2,
+          "field": "patti",
+          "bbox": [
+            580,
+            2555,
+            249,
+            205
+          ],
+          "lines": [
+            {
+              "text": "पत्ती सोयम",
+              "bbox": [
+                605,
+                2585,
+                160,
+                37
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 3,
+          "field": "owners",
+          "bbox": [
+            829,
+            2555,
+            884,
+            205
+          ],
+          "lines": [
+            {
+              "text": "राज कौर पुत्री हरी नाथ हिस्सा 1/6",
+              "bbox": [
+                852,
+                2592,
+                472,
+                49
+              ],
+              "clipped": false
+            },
+            {
+              "text": "कुलदीप राम पुत्र हरी नाथ हिस्सा 2/3",
+              "bbox": [
+                850,
+                2645,
+                515,
+                49
+              ],
+              "clipped": false
+            },
+            {
+              "text": "ऊषा कुमारी पुत्री हरी नाथ हिस्सा 1/6",
+              "bbox": [
+                848,
+                2694,
+                508,
+                48
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 4,
+          "field": "cultivator",
+          "bbox": [
+            1713,
+            2555,
+            460,
+            205
+          ],
+          "lines": [
+            {
+              "text": "खुदकाश्त",
+              "bbox": [
+                1734,
+                2607,
+                131,
+                34
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 5,
+          "field": "irrigation",
+          "bbox": [
+            2173,
+            2555,
+            231,
+            205
+          ],
+          "lines": [
+            {
+              "text": "चाही",
+              "bbox": [
+                2189,
+                2592,
+                68,
+                37
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 6,
+          "field": "khasra_nos",
+          "bbox": [
+            2403,
+            2555,
+            288,
+            205
+          ],
+          "lines": [
+            {
+              "text": "10//4",
+              "bbox": [
+                2434,
+                2599,
+                63,
+                32
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 7,
+          "field": "area",
+          "bbox": [
+            2692,
+            2555,
+            422,
+            205
+          ],
+          "lines": [
+            {
+              "text": "2-16 चाही",
+              "bbox": [
+                2721,
+                2594,
+                147,
+                37
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 8,
+          "field": "revenue",
+          "bbox": [
+            3114,
+            2555,
+            192,
+            205
+          ],
+          "lines": [
+            {
+              "text": "35.75",
+              "bbox": [
+                3129,
+                2595,
+                80,
+                25
+              ],
+              "clipped": false
+            }
+          ]
+        },
+        {
+          "col": 9,
+          "field": "cess",
+          "bbox": [
+            3306,
+            2555,
+            173,
+            205
+          ],
+          "lines": []
+        },
+        {
+          "col": 10,
+          "field": "rent",
+          "bbox": [
+            3479,
+            2555,
+            173,
+            205
+          ],
+          "lines": []
+        },
+        {
+          "col": 11,
+          "field": "remarks",
+          "bbox": [
+            3652,
+            2555,
+            365,
+            205
+          ],
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

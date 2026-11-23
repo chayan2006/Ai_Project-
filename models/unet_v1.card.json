@@ -1,0 +1,58 @@
+{
+  "model": "UNetLite",
+  "params": 482466,
+  "train_data": "data/synjama/train",
+  "val_data": "data/synjama/val",
+  "train_pages": 120,
+  "steps": 1500,
+  "batch": 8,
+  "lr": 0.001,
+  "seed": 0,
+  "augmentation": "fade/break rules, brightness, noise",
+  "history": [
+    {
+      "step": 250,
+      "loss": 1.2745,
+      "val_iou_h": 0.4973,
+      "val_iou_v": 0.7218
+    },
+    {
+      "step": 500,
+      "loss": 0.5275,
+      "val_iou_h": 0.6998,
+      "val_iou_v": 0.8445
+    },
+    {
+      "step": 750,
+      "loss": 0.1636,
+      "val_iou_h": 0.7964,
+      "val_iou_v": 0.8728
+    },
+    {
+      "step": 1000,
+      "loss": 0.1781,
+      "val_iou_h": 0.7752,
+      "val_iou_v": 0.8657
+    },
+    {
+      "step": 1250,
+      "loss": 0.0924,
+      "val_iou_h": 0.849,
+      "val_iou_v": 0.8992
+    },
+    {
+      "step": 1500,
+      "loss": 0.1178,
+      "val_iou_h": 0.7957,
+      "val_iou_v": 0.8804
+    }
+  ],
+  "val_iou": {
+    "step": 1500,
+    "loss": 0.1178,
+    "val_iou_h": 0.7957,
+    "val_iou_v": 0.8804
+  },
+  "minutes": 24.3,
+  "licence": "trained only on synthetic SynJama pages"
+}

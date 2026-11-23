@@ -1,0 +1,48 @@
+village_code,khewat_no,kind,type,rules,field,page_value,register_value,holding_id
+V000,73,intra,total_mismatch,R2,total_area,384,407,
+V000,2,benign,digits,,khewat_no,2,२,V000-P0001-R02
+V000,4,benign,spelling,,owner.name,रणजीत पाल,रणजित पाल,V000-P0001-R04
+V000,9,contradiction,owner_replaced,R5,owner.name,ओम प्रकाश,रामकिशन नाथ,V000-P0001-R09
+V000,11,benign,digits,,khasra,10//17,१०//१७,V000-P0002-R01
+V000,14,contradiction,cultivator_changed,R9,cultivator,khudkasht,ओम प्रकाश s/o हरी पाल,V000-P0002-R04
+V000,20,benign,relation_word,,owner.relation,s/o,पुत्र,V000-P0003-R02
+V000,21,benign,digits,,khewat_no,21,२१,V000-P0003-R03
+V000,25,benign,digits,,khasra,30//13,३०//१३,V000-P0003-R07
+V000,27,benign,digits,,khasra,31//21,३१//२१,V000-P0003-R09
+V000,33,benign,spelling,,owner.name,प्रीतम दास,प्रितम दास,V000-P0004-R06
+V000,36,contradiction,cultivator_changed,R9,cultivator,दिनेश दत्त s/o नरेंद्र दत्त,मुकेश सिंह s/o राजबीर दास,V000-P0005-R01
+V000,39,benign,spelling,,owner.name,रघुबीर सिंह,रघुवीर सिंह,V000-P0005-R04
+V000,40,benign,spelling,,owner.parent,सुरेंद्र दास,सूरेंद्र दास,V000-P0005-R05
+V000,41,contradiction,share_changed,R6,share,1/3,8/15,V000-P0005-R06
+V000,45,contradiction,share_changed,R6,share,1/4,1/10,V000-P0005-R10
+V000,46,benign,spelling,,owner.name,चंदर दत्त,चन्दर दत्त,
+V000,50,benign,digits,,khasra,57//5,५७//५,
+V000,53,contradiction,area_changed,R7,area[61//20],105,157,
+V000,61,contradiction,share_changed,R6,share,1/3,1/6,
+V000,64,contradiction,mutation_missing,R10,mutation_no,6069,,
+V000,66,benign,digits,,khasra,77//1,७७//१,
+V000,69,benign,spelling,,owner.name,प्रीतम पाल,प्रितम पाल,
+V000,74,benign,relation_word,,owner.relation,s/o,पुत्र,
+V000,78,benign,relation_word,,owner.relation,d/o,पुत्री,
+V000,79,benign,spelling,,owner.name,गुरप्रीत कुमारी,गुरप्रीत कूमारी,
+V000,80,benign,spelling,,owner.parent,मुकेश प्रकाश,मुकेस प्रकाश,
+V000,82,benign,relation_word,,owner.relation,s/o,पुत्र,
+V000,89,benign,relation_word,,owner.relation,d/o,पुत्री,
+V000,94,benign,spelling,,owner.name,दलीप प्रकाश,दलीप प्रकास,
+V000,97,benign,spelling,,owner.name,भगवान कुमार,भगवान कूमार,
+V000,98,benign,digits,,khasra,118//24,११८//२४,
+V000,101,contradiction,mutation_missing,R10,mutation_no,2151,,
+V000,102,benign,relation_word,,owner.relation,s/o,पुत्र,
+V000,105,benign,relation_word,,owner.relation,s/o,पुत्र,
+V000,112,contradiction,mutation_missing,R10,mutation_no,1163,,
+V000,112,benign,relation_word,,owner.relation,s/o,पुत्र,
+V000,113,contradiction,area_changed,R7,area[134//12],268,331,
+V000,115,contradiction,owner_removed,R5,owner,करतार दास,,
+V000,1,renumber,khewat_renumbered,,khewat_no,1,116,V000-P0001-R01
+V000,9,renumber,khewat_renumbered,,khewat_no,9,117,V000-P0001-R09
+V000,16,renumber,khewat_renumbered,,khewat_no,16,118,V000-P0002-R06
+V000,23,renumber,khewat_renumbered,,khewat_no,23,119,V000-P0003-R05
+V000,44,renumber,khewat_renumbered,,khewat_no,44,120,V000-P0005-R09
+V000,47,renumber,khewat_renumbered,,khewat_no,47,121,
+V000,67,renumber,khewat_renumbered,,khewat_no,67,122,
+V000,87,renumber,khewat_renumbered,,khewat_no,87,123,

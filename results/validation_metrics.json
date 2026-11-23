@@ -1,0 +1,245 @@
+{
+  "val": {
+    "holdings": 720,
+    "positives": 105,
+    "profile": "default",
+    "holding_level": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 105,
+      "fp": 0,
+      "fn": 0
+    },
+    "link_accuracy": 1.0,
+    "link_methods": {
+      "khewat": 686,
+      "khasra_jaccard": 34
+    },
+    "expected_rule_fired": {
+      "area_changed": 1.0,
+      "cultivator_changed": 1.0,
+      "khasra_moved": 1.0,
+      "mutation_missing": 1.0,
+      "owner_removed": 1.0,
+      "owner_replaced": 1.0,
+      "share_changed": 1.0,
+      "share_sum": 1.0,
+      "total_mismatch": 1.0
+    },
+    "rules_fired_by_label": {
+      "benign:digits": {
+        "-": 38,
+        "R2": 2,
+        "R6": 2,
+        "R7": 3,
+        "R5": 4
+      },
+      "benign:relation_word": {
+        "-": 54,
+        "R5": 2,
+        "R6": 1
+      },
+      "benign:spelling": {
+        "-": 30,
+        "R5": 2,
+        "R10": 1,
+        "R7": 2
+      },
+      "contradiction:area_changed": {
+        "R7": 28,
+        "R1": 2,
+        "R6": 2
+      },
+      "contradiction:cultivator_changed": {
+        "R9": 2
+      },
+      "contradiction:khasra_moved": {
+        "R8": 8,
+        "R1": 1,
+        "R6": 1
+      },
+      "contradiction:mutation_missing": {
+        "R10": 4
+      },
+      "contradiction:owner_removed": {
+        "R5": 12,
+        "R6": 12,
+        "R1": 1
+      },
+      "contradiction:owner_replaced": {
+        "R5": 24
+      },
+      "contradiction:share_changed": {
+        "R6": 18,
+        "R1": 1
+      },
+      "intra:share_sum": {
+        "R1": 12,
+        "R6": 12,
+        "R8": 1,
+        "R7": 2,
+        "R5": 1
+      },
+      "intra:total_mismatch": {
+        "R2": 2
+      },
+      "renumber:khewat_renumbered": {
+        "-": 22,
+        "R7": 4,
+        "R1": 1,
+        "R6": 5,
+        "R10": 1,
+        "R5": 3
+      }
+    },
+    "false_positives": [],
+    "missed": [],
+    "acceptance_passed": true,
+    "flagged_holdings": 105,
+    "report": "results/contradiction_report_gt_val.csv"
+  },
+  "test": {
+    "holdings": 751,
+    "positives": 108,
+    "profile": "default",
+    "holding_level": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 108,
+      "fp": 0,
+      "fn": 0
+    },
+    "link_accuracy": 1.0,
+    "link_methods": {
+      "khewat": 705,
+      "khasra_jaccard": 46
+    },
+    "expected_rule_fired": {
+      "area_changed": 1.0,
+      "cultivator_changed": 1.0,
+      "khasra_moved": 1.0,
+      "mutation_missing": 1.0,
+      "owner_removed": 1.0,
+      "owner_replaced": 1.0,
+      "share_changed": 1.0,
+      "share_sum": 1.0,
+      "total_mismatch": 1.0
+    },
+    "rules_fired_by_label": {
+      "benign:digits": {
+        "-": 42,
+        "R5": 2,
+        "R9": 1,
+        "R7": 3,
+        "R6": 1
+      },
+      "benign:relation_word": {
+        "-": 55,
+        "R6": 1,
+        "R5": 1,
+        "R2": 2,
+        "R7": 1
+      },
+      "benign:spelling": {
+        "R6": 1,
+        "-": 28,
+        "R5": 1,
+        "R7": 1,
+        "R8": 1
+      },
+      "contradiction:area_changed": {
+        "R7": 28
+      },
+      "contradiction:cultivator_changed": {
+        "R9": 6
+      },
+      "contradiction:khasra_moved": {
+        "R8": 10
+      },
+      "contradiction:mutation_missing": {
+        "R10": 4
+      },
+      "contradiction:owner_removed": {
+        "R6": 16,
+        "R5": 16
+      },
+      "contradiction:owner_replaced": {
+        "R5": 23
+      },
+      "contradiction:share_changed": {
+        "R6": 10
+      },
+      "intra:share_sum": {
+        "R6": 6,
+        "R1": 6
+      },
+      "intra:total_mismatch": {
+        "R2": 5
+      },
+      "renumber:khewat_renumbered": {
+        "-": 40,
+        "R5": 5,
+        "R10": 1
+      }
+    },
+    "false_positives": [],
+    "missed": [],
+    "acceptance_passed": true,
+    "flagged_holdings": 108,
+    "report": "results/contradiction_report_gt_test.csv"
+  },
+  "sample": {
+    "holdings": 45,
+    "positives": 5,
+    "profile": "default",
+    "holding_level": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0
+    },
+    "link_accuracy": 1.0,
+    "link_methods": {
+      "khasra_jaccard": 5,
+      "khewat": 40
+    },
+    "expected_rule_fired": {
+      "cultivator_changed": 1.0,
+      "owner_replaced": 1.0,
+      "share_changed": 1.0
+    },
+    "rules_fired_by_label": {
+      "benign:digits": {
+        "-": 5
+      },
+      "benign:relation_word": {
+        "-": 1
+      },
+      "benign:spelling": {
+        "-": 4
+      },
+      "contradiction:cultivator_changed": {
+        "R9": 2
+      },
+      "contradiction:owner_replaced": {
+        "R5": 1
+      },
+      "contradiction:share_changed": {
+        "R6": 2
+      },
+      "renumber:khewat_renumbered": {
+        "-": 4,
+        "R5": 1
+      }
+    },
+    "false_positives": [],
+    "missed": [],
+    "acceptance_passed": true,
+    "flagged_holdings": 5,
+    "report": "results/contradiction_report_gt_sample.csv"
+  }
+}

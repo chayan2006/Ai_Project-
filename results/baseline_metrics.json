@@ -1,0 +1,42 @@
+{
+  "val": {
+    "holdings": 720,
+    "predicted_rows": 815,
+    "missed_holdings": 11,
+    "per_field_accuracy": {
+      "khewat_no": 0.2361111111111111,
+      "khatauni_no": 0.25555555555555554,
+      "owner_name": 0.21265963353692394,
+      "parent_name": 0.2537479178234314,
+      "share": 0.08217656857301499,
+      "cultivator": 0.20416666666666666,
+      "khasra": 0.11753986332574032,
+      "area": 0.25649202733485194,
+      "land_type": 0.5526195899772209,
+      "mutation_ref": 0.6694444444444444
+    },
+    "mean_field_accuracy": 0.2840513378348961,
+    "numeric_field_accuracy": 0.18957502518005476,
+    "name_cer": 1.0973842245062941,
+    "remarks_cer": 0.39209225700164746,
+    "review_share": 1.0,
+    "auto_accepted_holdings": 0,
+    "auto_accept_accuracy": null,
+    "holdings_fully_correct": 0.0,
+    "contradiction": {
+      "precision": 0.12779156327543426,
+      "recall": 0.9809523809523809,
+      "tp": 103,
+      "fp": 703,
+      "fn": 2,
+      "flagged": 806,
+      "positives": 105
+    },
+    "system": "baseline",
+    "rules_profile": "exact",
+    "data": "data/synjama/val",
+    "pages": 100,
+    "config_hash": "345e37f21e86",
+    "predictions": "data/interim/baseline/val.json"
+  }
+}
