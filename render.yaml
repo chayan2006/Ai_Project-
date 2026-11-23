@@ -1,0 +1,11 @@
+# Web Service for LRE Reviewer on Render.com
+services:
+  - type: web
+    name: lre-land-records
+    runtime: python
+    buildCommand: "pip install --upgrade pip && pip install -r requirements.txt && pip install -e ."
+    startCommand: "streamlit run app/reviewer.py --server.port $PORT --server.address 0.0.0.0 --server.headless true"
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
